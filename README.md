@@ -1,4 +1,4 @@
- 👋 Hi, I’m @GeneralGakobo
+ 👋 Hi, I’m @GeneralGakobo David Gakobo Susan
  👀 I’m interested in software development as a full stack developer
  🌱 I’m currently learning ruby on rails
  💞️ I’m looking to collaborate on projects for community development.
